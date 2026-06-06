@@ -1,4 +1,6 @@
-#!/home/grzegorz/Studia/DrugiStopien/Sem1/SieciNeuronowe/SNIAG_Projekt/jupyter-regression-env/bin/python3
+#!/bin/sh
+'''exec' /home/grzegorz/Studia/DrugiStopien/Sem1/SieciNeuronowe/Sieci-Neuronowe-i-Algorytmy-Genetyczne-Projekt/jupyter-regression-env/bin/python3 "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys

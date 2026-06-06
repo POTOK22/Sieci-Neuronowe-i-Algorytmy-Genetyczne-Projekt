@@ -33,7 +33,7 @@ end
 # Unset irrelevant variables.
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV /home/grzegorz/Studia/DrugiStopien/Sem1/SieciNeuronowe/SNIAG_Projekt/jupyter-regression-env
+set -gx VIRTUAL_ENV /home/grzegorz/Studia/DrugiStopien/Sem1/SieciNeuronowe/Sieci-Neuronowe-i-Algorytmy-Genetyczne-Projekt/jupyter-regression-env
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/"bin $PATH
