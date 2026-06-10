@@ -1,2 +1,2 @@
-# SNIAG-CaliforniaHouses
-Sieci Neuronowe i Algorytmy Genetyczne Projekt - Zastosowanie regresji liniowej do estymacji cen domów w Kalifornii
+# LinearRegressionNetwork-CaliforniaHouses
+Linear Regression Network for estimation California house prices
